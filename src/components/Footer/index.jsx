@@ -10,6 +10,7 @@ const StyledFooter = styled.footer`
     align-items: center;
     background-color: #04244F;
     margin-top: 48px;
+    width: 100%;
 
     span {
         color: #FFFFFF;
